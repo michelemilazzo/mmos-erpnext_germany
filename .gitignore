@@ -1,0 +1,9 @@
+.DS_Store
+*.pyc
+*.egg-info
+*.swp
+tags
+erpnext_germany/docs/current
+erpnext_germany/public/dist
+build/
+.pytest_cache/
