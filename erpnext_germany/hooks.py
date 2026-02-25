@@ -218,3 +218,4 @@ germany_custom_records = [
 		"custom": 1,
 	},
 ]
+frappe_version = ">=15.0.0,<17.0.0"
